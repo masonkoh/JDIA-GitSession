@@ -1,2 +1,3 @@
 # JDIA-GitSession
-this is for the JDIA Git Session
+Hello JDIA
+this repo is for the JDIA Git lecture
