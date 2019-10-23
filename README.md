@@ -1,6 +1,6 @@
 # JDIA-GitSession
 
-> Date: Oct 23 2019, THU
+> Date: Oct 24 2019, THU
 
 > Location: @Seneca College newnham campus K building
 
