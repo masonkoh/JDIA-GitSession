@@ -1,3 +1,5 @@
 # JDIA-GitSession
-Hello JDIA
-this repo is for the JDIA Git lecture
+
+Date: Oct 23 2019, THU
+Location: @Seneca College newnham campus K building
+Instructor: Mason Youngmin Koh
